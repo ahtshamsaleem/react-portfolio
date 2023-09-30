@@ -11,7 +11,7 @@ const Footer = () => {
             <Wrapper>
                 {/* NAVBAR START */}
                 <div className="flex flex-col md:flex-row items-center justify-between gap-5 2xl:mt-[63px] relative text-[#111111] border-t border-[#CCCCCC] py-10">
-                    <div className="flex items-center gap-8">
+                    <div className="flex items-center gap-2 md:gap-8 flex-col md:flex-row">
 
 
                     <a href="mailto:iqwebdev600@gmail.com?subject='Hello from Ihtisham!'" target="external">
